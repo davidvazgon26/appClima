@@ -1,6 +1,7 @@
 ## App Weather
 
-### Instrucciones para correr el proyecto
+### Instrucciones para correr el proyecto  
+:sun_with_face:
 
 Desde la carpeta "homework" se pueden ejecutar los siguientes comandos:
 
@@ -16,6 +17,6 @@ No es necesario volver a correr el proyecto cada vez que se realice un cambio si
 Muestra final de la aplicación funcionando:
 
 <p align="center">
-  <img src="./src/AppDelClima.jpg" alt="App del CLima" />
+  <img src="https://i.imgur.com/GSe4H47.jpg" alt="App del CLima" />
 </p>
 

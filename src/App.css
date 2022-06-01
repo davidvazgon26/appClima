@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.App {
+  text-align: center;
+  min-height:100%;
+  background-image:  url("../src/climaBG.png");
+  background-color: rgb(175, 177, 171);
+  background-size: cover;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+
+}
+
+.barra{
+  border: 4px solid #383737;
+  border-radius:18px;
+  box-shadow:1px 4px 3px rgb(248, 4, 4);
+}
+
+.bodyCards{
+  min-height: 64vh;
+}
