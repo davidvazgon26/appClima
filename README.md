@@ -20,3 +20,4 @@ Muestra final de la aplicación funcionando:
   <img src="https://i.imgur.com/GSe4H47.jpg" alt="App del CLima" />
 </p>
 
+puedes ver el deploy en el siguiente enlace: [Click aqui](https://weather-app-sage-one.vercel.app/)
